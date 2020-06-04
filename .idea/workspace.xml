@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05af2793-6571-4098-b1ba-9a37a8f60f84" name="Default Changelist" comment="AllINOne II" />
+    <list default="true" id="05af2793-6571-4098-b1ba-9a37a8f60f84" name="Default Changelist" comment="AllINOne III">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auction-Frontend-Angular8-finall" beforeDir="false" afterPath="$PROJECT_DIR$/Auction-Frontend-Angular8-finall" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -116,6 +120,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/AllyFinance_Playground_All_In_One" />
+      <path value="$PROJECT_DIR$/AllyFinance_Playground_All_In_One/Auction-Frontend-Angular" />
+      <path value="$PROJECT_DIR$/AllyFinance_Playground_All_In_One/auction-SpringBackend" />
+      <path value="$PROJECT_DIR$/Auction-Frontend-Angular" />
+      <path value="$PROJECT_DIR$/Auction-Frontend-Angular8-finall" />
+      <path value="$PROJECT_DIR$/auction-SpringBackend" />
+    </ignored-roots>
     <MESSAGE value="AllINOne" />
     <MESSAGE value="AllINOne 2" />
     <MESSAGE value="AllINOne II" />
@@ -126,14 +139,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1591226379783" />
-    <state x="461" y="304" key="Github.ShareDialog" timestamp="1591225363338">
+    <state x="461" y="304" key="Github.ShareDialog" timestamp="1591232652036">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="461" y="304" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1591225363338" />
-    <state x="141" y="39" key="SettingsEditor" timestamp="1591225987297">
+    <state x="461" y="304" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1591232652036" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1591232383908">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1591225987297" />
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1591232383908" />
     <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1591226303217">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

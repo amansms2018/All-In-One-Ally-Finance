@@ -2,11 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AllyFinance_Playground_All_In_One" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AllyFinance_Playground_All_In_One/Auction-Frontend-Angular" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AllyFinance_Playground_All_In_One/auction-SpringBackend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Auction-Frontend-Angular" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Auction-Frontend-Angular8-finall" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/auction-SpringBackend" vcs="Git" />
   </component>
 </project>
